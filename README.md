@@ -1,5 +1,5 @@
 # Business Data Management - MIS-443
-## 8-Week SQL Challenges - Case Study 4 - Data Bank
+## 8-Week SQL Challenges - [Case Study 4 - Data Bank](https://8weeksqlchallenge.com/case-study-4/)
 
 ## Project Overview
 ### Background
